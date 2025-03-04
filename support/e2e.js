@@ -15,4 +15,7 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-import 'cypress-xpath';
+import 'cypress-xpath'
+import 'child_process'
+import 'cypress'
+
