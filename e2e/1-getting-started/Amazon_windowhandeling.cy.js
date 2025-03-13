@@ -33,8 +33,5 @@ describe('Window Handling',()=> {
         cy.go('back');
 
 
-        
-
-
     });
 });
