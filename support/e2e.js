@@ -18,4 +18,4 @@ import './commands'
 import 'cypress-xpath'
 import 'child_process'
 
-
+import 'cypress-file-upload'
